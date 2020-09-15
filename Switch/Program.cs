@@ -32,6 +32,9 @@ namespace Switch
                 case "saturday":
                     Console.WriteLine("7");
                     break;
+                default:
+                    Console.WriteLine("Oops, something went wrong");
+                    break;
             }
         }
     }

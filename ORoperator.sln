@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayCheckerTask", "DayChecke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{09EFFB9E-D343-448B-BD5F-E5B37D01938B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFeedback", "TestFeedback\TestFeedback.csproj", "{FE391F4E-9A01-4C6D-8499-BDD9A1C1D87E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{09EFFB9E-D343-448B-BD5F-E5B37D01938B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09EFFB9E-D343-448B-BD5F-E5B37D01938B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09EFFB9E-D343-448B-BD5F-E5B37D01938B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE391F4E-9A01-4C6D-8499-BDD9A1C1D87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE391F4E-9A01-4C6D-8499-BDD9A1C1D87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE391F4E-9A01-4C6D-8499-BDD9A1C1D87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE391F4E-9A01-4C6D-8499-BDD9A1C1D87E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
